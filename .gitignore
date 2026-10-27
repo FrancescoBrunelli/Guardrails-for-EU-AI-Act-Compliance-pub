@@ -1,0 +1,29 @@
+# Python
+.venv/
+.idea/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+.obsidian/
+
+# Folders
+datasets/
+logs/
+src/__pycache__/
+tables/
+
+# HPC
+runtime.err
+runtime.out
+
+# Other
+scripts/plot.py
+
